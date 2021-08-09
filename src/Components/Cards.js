@@ -18,7 +18,7 @@ function Card() {
 					src={HaviImage}
 					text="Explore the might of Vulkan Rendering!"
 					label='Engine Development'
-					path='/havi-engine' 
+					path='havi-engine'
 					/>
 					<CardItem 
 					src={DueppelImage}
@@ -32,7 +32,7 @@ function Card() {
 					src={ProtoImage}
 					text='Protometheus : Awake the ancient machinery!'
 					label='3D Platformer'
-					path='/havi-engine' 
+					path='havi-engine'
 					/>
 					<CardItem 
 					src={MooseCruiseImage}

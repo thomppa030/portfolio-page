@@ -33,7 +33,7 @@ function Navbar() {
 			to='/'
 			className='navbar-logo' 
 			onClick={closeMobileMenu}>
-			thomppadev	
+			thomppadev
 			<i 
 			className='fab fa-connectdevelop'
 			>
